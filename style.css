@@ -1,0 +1,184 @@
+body {
+    font-family: "Barlow", sans-serif;
+    background: #f5f7fa;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #595959;
+    box-shadow: 6px 50px 50px rgba(0, 0, 0, 0.356);
+}
+
+aside {
+    width: 370px;
+    background: white;
+}
+
+.cv-photo {
+    margin-top: 25px;
+}
+
+.header-secondary {
+    color: black;
+}
+
+.contact-links {
+    color: black;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    text-decoration: none;
+}
+
+.bold {
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+.list-secondary {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-position: inside;
+}
+
+.list-secondary-item {
+    color: black;
+    margin-right: 10px;
+}
+
+.contact-block {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+.tech-skills-block {
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.soft-skills-block {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.language-skills-block {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.hobbies-block {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.useful-links-block {
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+main {
+    padding: 50px 88px 102px 88px;
+}
+.main-description {
+    width: 450px;
+    margin-bottom: 40px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.job-title {
+    font-size: 16px;
+    line-height: 17px;
+    color: white;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: white;
+}
+
+.description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
+
+.list-primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list-primary-item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #dadada;
+}
+
+.header-primary {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+    margin-bottom: 12px;
+}
+
+.job-position {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: white;
+}
+
+.highlight {
+    color: #fb6d3a;
+}
+
+.job-date {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+
+.job-list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #dadada;
+    padding-left: 0;
+    list-style-position: inside;
+    margin-bottom: 30px;
+}
+
+.education {
+    margin-top: 43px;
+}
+
+.university {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fb6d3a;
+}
+
+.major {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: white;
+    margin-top: 11px;
+}
